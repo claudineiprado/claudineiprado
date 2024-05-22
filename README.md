@@ -1,16 +1,22 @@
-## Hi there 👋
+## boas vindas ao meu perfil, rato 🖤
 
-<!--
-**claudineiprado/claudineiprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Claudinei do Prado
 
-Here are some ideas to get you started:
+- Estou estudando no [alura](https://www.alura.co.br)
+- Estou me desenvolvendo na linguagem javascrip
+- Ultirizo esse espaço para minha organizaçao e o compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### voce entrar em contato comigo 📫
+
+maelindapradi@gmail.com
+
+@claudineiprado
+
+![](![image](https://github.com/claudineiprado/claudineiprado/assets/170564626/66d55796-2ab8-4d26-bbb6-4884dbe850ca)
+
+
+
+
+
+
+  
